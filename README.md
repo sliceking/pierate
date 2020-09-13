@@ -11,4 +11,3 @@ Pierate is a laravel 8 application and can be setup with ease. [check the requir
 [] latest recipes
 [] top recipes
 [] activity feed
-# pierate
